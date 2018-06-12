@@ -1,5 +1,5 @@
 # FlexBoxProject
-This is a flexbox and CSS transitions projected I completed during The Advanced Web Developer Bootcamp on Udemy taught and created by Colt Steele, Elie Schoppik, Tim Garcia, and Matt Lane. 
+This is a flexbox and CSS transitions projected I completed during The Advanced Web Developer Bootcamp on Udemy is taught and created by Colt Steele, Elie Schoppik, Tim Garcia, and Matt Lane. 
 
 Link to Course: https://www.udemy.com/the-advanced-web-developer-bootcamp/?start=0
 
