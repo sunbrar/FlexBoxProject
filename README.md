@@ -14,5 +14,4 @@ Skills Learned:
 2. Various new CSS3 styles
 3. Transitions
 4. Keyframes
-5. New CSS3 commands
 
